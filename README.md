@@ -1,2 +1,2 @@
 my first readme file  
-i am updating it now
+i am updating it now.
